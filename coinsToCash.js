@@ -9,7 +9,7 @@ var quartersAmount = piggyBank.quarters * .25;
 // console.log(quartersAmount);
 var nickelsAmount = piggyBank.nickels * .05;
 // console.log(nickelsAmount);
-var dimesAmount = piggyBank.dimes * .1;
+var dimesAmount = piggyBank.dimes * .10;
 // console.log(dimesAmount);
 var penniesAmount = piggyBank.pennies * .01;
 // console.log(penniesAmount);
